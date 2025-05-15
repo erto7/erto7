@@ -26,7 +26,7 @@ Currently focused on improving my skills with **React** and **Next.js**.
 
 - **Biltek** – A project built for practical frontend experience  
   [🔗 GitHub Repo](https://github.com/erto7/biltek)
-https://github.com/aybubiltek/aybubiltek.com_v2
+
 ---
 
 ### Currently Learning
@@ -34,20 +34,30 @@ https://github.com/aybubiltek/aybubiltek.com_v2
 - Write clean, readable, and scalable code by applying principles like KISS, DRY, and SOLID
 - Build user-friendly and accessible interfaces aligned with UI/UX design best practices
 - Develop performance-optimized and SEO-friendly web applications
-- Create responsive and cross-browser compatible layouts
 - Integrate data using RESTful APIs and GraphQL
 - Use version control tools like Git and GitHub effectively
-- Contribute to team collaboration by working within Agile methodologies
-- Increase application reliability by writing unit and component tests (e.g., with Jest, React Testing Library)
 - Engage with the developer community by contributing to open-source projects
 - Strengthen practical skills and promote continuous learning through personal projects
 
 ---
 
 ### Goals
-- Build a personal portfolio with React or Next.js
-- Learn how to use APIs in frontend apps
-- Create responsive and accessible UIs
+- 📚 Advance my knowledge of HTML, CSS, and JavaScript  
+- ⚛️ Master modern frontend frameworks like React.js and Next.js  
+- 🧠 Learn TypeScript to build safer and more scalable applications  
+- 📱 Design responsive and mobile-first user interfaces  
+- 🎨 Improve my skills in UI/UX to prioritize user experience  
+- 🧪 Develop testing practices using tools like Jest and Testing Library  
+- 📈 Learn optimization techniques to improve web performance  
+- 🛠️ Work efficiently with design tools such as Figma and build design systems  
+- 🌐 Work with RESTful APIs and GraphQL for seamless data communication  
+- 🔐 Gain knowledge about web security (e.g., XSS, CSRF)  
+- 🤝 Contribute to open-source projects and support the dev community  
+- 💼 Build portfolio projects and showcase them on GitHub and my personal website  
+- 🗣️ Strengthen teamwork and communication skills  
+- 🧰 Learn backend fundamentals (Node.js, Express, MongoDB)  
+- 📃 Earn certifications and complete relevant online courses  
+- 🧭 Keep up with modern trends and technologies in web development
 
 ---
 
