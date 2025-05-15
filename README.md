@@ -44,5 +44,5 @@ https://github.com/aybubiltek/aybubiltek.com_v2
 ---
 
 ### Contact Me
-- LinkedIn: [linkedin.com/in/ertuğrul-bulğen-750889252/]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ertu%C4%9Frul-bul%C4%9Fen-750889252/)
 - Email: ebulgen7@gmail.com
