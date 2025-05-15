@@ -30,9 +30,17 @@ https://github.com/aybubiltek/aybubiltek.com_v2
 ---
 
 ### Currently Learning
-- React fundamentals (hooks, components, props, state)
-- Next.js basics (pages, routing, SSR/CSR)
-- Better project structuring and clean code practices
+- Gain proficiency in modern technologies such as React, Next.js, and TypeScrip
+- Write clean, readable, and scalable code by applying principles like KISS, DRY, and SOLID
+- Build user-friendly and accessible interfaces aligned with UI/UX design best practices
+- Develop performance-optimized and SEO-friendly web applications
+- Create responsive and cross-browser compatible layouts
+- Integrate data using RESTful APIs and GraphQL
+- Use version control tools like Git and GitHub effectively
+- Contribute to team collaboration by working within Agile methodologies
+- Increase application reliability by writing unit and component tests (e.g., with Jest, React Testing Library)
+- Engage with the developer community by contributing to open-source projects
+- Strengthen practical skills and promote continuous learning through personal projects
 
 ---
 
