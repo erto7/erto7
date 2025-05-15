@@ -45,7 +45,7 @@ Currently focused on improving my skills with **React** and **Next.js**.
 - 📚 Advance my knowledge of HTML, CSS, and JavaScript  
 - ⚛️ Master modern frontend frameworks like React.js and Next.js  
 - 🧠 Learn TypeScript to build safer and more scalable applications  
-- 📱 Design responsive and mobile-first user interfaces  
+- 📱  Design responsive and mobile-first user interfaces  
 - 🎨 Improve my skills in UI/UX to prioritize user experience  
 - 🧪 Develop testing practices using tools like Jest and Testing Library  
 - 📈 Learn optimization techniques to improve web performance  
