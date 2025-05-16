@@ -41,8 +41,7 @@ Currently focused on improving my skills with **React** and **Next.js**.
 
 ---
 
-### Goals
-- 📚 Advance my knowledge of HTML, CSS, and JavaScript  
+### Goals  
 - ⚛️ Master modern frontend frameworks like React.js and Next.js  
 - 🧠 Learn TypeScript to build safer and more scalable applications  
 - 📱  Design responsive and mobile-first user interfaces  
